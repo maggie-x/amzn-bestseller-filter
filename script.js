@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Amazon BestSeller Filter
-// @namespace    https://www.amazon.com/Best-Sellers*
+// @namespace    https://www.amazon.com/Best-Sellers-*
 // @version      0.1
 // @description  Filter Amazon Best Sellers
 // @author       Maggie Xu
